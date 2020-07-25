@@ -26,9 +26,9 @@ This tool requires Django for its server and Telegram Bot API from sending messa
 
 1.  Setup requirements for python (>=3.x) using the requirements.txt. Don't forget to setup a virtual environment first.
 
-```bash
-pip install -r requirements.txt
-```
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 2.  Setup you backend server using postgres, add your password to `settings.py`.
 

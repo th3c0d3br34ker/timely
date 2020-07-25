@@ -21,5 +21,7 @@ People might forget to check their mail. But a short simple message reminding th
     This module runs as a seperate module. It currently just sends reply to the users. It posts an API request every hour 10 mins before. A list of meetings is then received and then all the members associated are sent a reminder message.
 
 ```
-This is not the perfect version of the idea. It requires a lot of developement. If you have any other idea feel free to contact me. :)
+This is not the perfect version of the idea. It requires a lot of developement.
+It is not perfect but its something.
+If you have any other idea feel free to contact me. :)
 ```

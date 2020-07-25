@@ -1,0 +1,5 @@
+# Developement
+venv
+**\__pycache__\**
+
+*.pyc

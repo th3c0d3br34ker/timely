@@ -1,5 +1,7 @@
 # Developement
 venv
+.vscode
+
 **\__pycache__\**
 
 *.pyc
